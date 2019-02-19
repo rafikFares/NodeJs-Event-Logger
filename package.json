@@ -1,0 +1,18 @@
+{
+  "name": "nodejslogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafik",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "npm": "^6.8.0",
+    "uuid": "^3.3.2"
+  }
+}
